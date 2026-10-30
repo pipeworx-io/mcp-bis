@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bis",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "BIS MCP — Bank for International Settlements statistics (no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bis",
     "gatewaySlug": "bis",
-    "sourceHash": "v1-3d18799a5842e038950938fb683e227980f36bb95415c70e6770402fff99b2c0",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-779ce9d430bacc05781481a41faf5faba34f317e28da12b7d9ed705c86a38a17",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
